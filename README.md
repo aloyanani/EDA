@@ -12,7 +12,7 @@ labs/3_music/3_1_note_recognizer
 ## How to Use
 
 1. Clone Panchul’s repository.
-2. Navigate to the folder `basics-graphics-music/labs/3_music/3_1_note_recognizer` and copy your file into it.
-3.  Run the code
+2. Navigate to the folder `basics-graphics-music/labs/3_music/3_1_note_recognizer` and copy my file into it.
+3. Run the code
    
 
